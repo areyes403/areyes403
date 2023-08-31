@@ -3,6 +3,7 @@
 <!--
 **areyes403/areyes403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+![alt text](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 
 Here are some ideas to get you started:
