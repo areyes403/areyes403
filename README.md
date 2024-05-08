@@ -17,3 +17,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# ¡Hola, soy [Tu Nombre]! 👋
+
+Soy un apasionado desarrollador de aplicaciones Android con experiencia en crear aplicaciones móviles increíbles que impactan positivamente la vida de las personas. Me encanta trabajar en proyectos desafiantes y aprender constantemente sobre las últimas tecnologías y prácticas de desarrollo.
+
+## 🔧 Tecnologías y Herramientas
+
+- Lenguajes de Programación: Kotlin, Java
+- Frameworks y Bibliotecas: Android SDK, Jetpack (ViewModel, LiveData, etc.), Retrofit, Dagger-Hilt, Coroutines, Room, Glide, etc.
+- Herramientas de Desarrollo: Android Studio, Git, Gradle, Firebase, etc.
+- Metodologías: Arquitectura Limpia (Clean Architecture), MVVM, MVP.
+
+## 🚀 Proyectos Destacados
+
+Aquí hay algunos proyectos en los que he trabajado recientemente:
+
+- [Proyecto 1](enlace): Breve descripción del proyecto y tecnologías utilizadas.
+- [Proyecto 2](enlace): Breve descripción del proyecto y tecnologías utilizadas.
+- [Proyecto 3](enlace): Breve descripción del proyecto y tecnologías utilizadas.
+
+
+¡Espero poder conectarme contigo pronto!
+
