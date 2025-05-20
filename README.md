@@ -24,21 +24,21 @@ I'm a passionate Android app developer with experience building amazing mobile a
 
 ## 🔧 Technologies and Tools
 
-- Lenguajes de Programación: Kotlin, Java <img src=["https://example.com/mi-imagen.png](https://1000marcas.net/wp-content/uploads/2020/11/Java-logo-600x375.png)" alt="Descripción" width="300"/>
+- Lenguajes de Programación: Kotlin, Java 
 
-- Frameworks y Bibliotecas: Android SDK, Jetpack (ViewModel, LiveData, etc.), Retrofit, Dagger-Hilt, Coroutines, Room, Glide, etc.
-- Herramientas de Desarrollo: Android Studio, Git, Gradle, Firebase, etc.
-- Arquitecturas: MVVM, MVP, MVI, Principios Solid, Arquitectura Limpia
-- Metodologías: SCRUM, KANBAN
+- Frameworks and Libraries: Android SDK, Jetpack (ViewModel, LiveData, etc.), Retrofit, Dagger-Hilt, Coroutines, Room, Glide, etc.
+- Development Tools: Android Studio, Git, Gradle, Firebase, etc.
+- Architectures: MVVM, MVP, MVI, Solid Principles, Clean Architecture
+- Methodologies: SCRUM, KANBAN
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-Aquí hay algunos proyectos en los que he trabajado recientemente:
+Here are some projects I've worked on recently:
 
-- TUTUM APPS (enlace): TUTUM APPS Breve descripción del proyecto y tecnologías utilizadas.
-- [Proyecto 2](enlace): Breve descripción del proyecto y tecnologías utilizadas.
-- [Proyecto 3](enlace): Breve descripción del proyecto y tecnologías utilizadas.
+- [Simple Clean Architecture Android](https://github.com/areyes403/Simple-MVVM-clean-architecture-daggerHilt-.git): A base Android project that implements Clean Architecture with MVVM, Dagger Hilt, Retrofit, and coroutines. Ideal for learning or starting new, organized, and scalable projects.
+- [TUTUM APPS](enlace): Project focused on a smart taximeter system, designed to offer an efficient, safe, and accessible taxi service for all types of users in Mexico. The goal is to modernize the transportation experience, ensuring transparent fares and quality of service.
+- [ViaGO](enlace): Real-time monitoring platform for personnel transportation, designed to provide greater control, security, and efficiency in the management of routes, units, and transfer times. Ideal for companies that require timely tracking of their employees' movements.
 
 
-¡Espero poder conectarme contigo pronto!
+I hope to connect with you soon!
 
