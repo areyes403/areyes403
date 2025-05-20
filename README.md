@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **areyes403/areyes403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,22 +18,24 @@ Here are some ideas to get you started:
 -->
 
 
-# ¡Hola, soy Abraham Reyes! 👋
+#Hi, I'm Abraham Reyes! 👋
 
-Soy un apasionado desarrollador de aplicaciones Android con experiencia en crear aplicaciones móviles increíbles que impactan positivamente la vida de las personas. Me encanta trabajar en proyectos desafiantes y aprender constantemente sobre las últimas tecnologías y prácticas de desarrollo.
+I'm a passionate Android app developer with experience building amazing mobile apps that positively impact people's lives. I love working on challenging projects and constantly learning about the latest technologies and development practices.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Technologies and Tools
 
-- Lenguajes de Programación: Kotlin, Java
+- Lenguajes de Programación: Kotlin, Java <img src=["https://example.com/mi-imagen.png](https://1000marcas.net/wp-content/uploads/2020/11/Java-logo-600x375.png)" alt="Descripción" width="300"/>
+
 - Frameworks y Bibliotecas: Android SDK, Jetpack (ViewModel, LiveData, etc.), Retrofit, Dagger-Hilt, Coroutines, Room, Glide, etc.
 - Herramientas de Desarrollo: Android Studio, Git, Gradle, Firebase, etc.
-- Metodologías: Arquitectura Limpia (Clean Architecture), MVVM, MVP.
+- Arquitecturas: MVVM, MVP, MVI, Principios Solid, Arquitectura Limpia
+- Metodologías: SCRUM, KANBAN
 
 ## 🚀 Proyectos Destacados
 
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-- [Proyecto 1](enlace): Breve descripción del proyecto y tecnologías utilizadas.
+- TUTUM APPS (enlace): TUTUM APPS Breve descripción del proyecto y tecnologías utilizadas.
 - [Proyecto 2](enlace): Breve descripción del proyecto y tecnologías utilizadas.
 - [Proyecto 3](enlace): Breve descripción del proyecto y tecnologías utilizadas.
 
